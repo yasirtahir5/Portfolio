@@ -51,12 +51,12 @@ const Home = () => {
               Lets build something exceptional together!
             </p>
             <div className="flex justify-center">
-              <button className="text-white inline-flex items-center rounded-2xl bg-yellow-500 border-0 py-1 px-5 focus:outline-none hover:bg-gray-700 hover:text-yellow-500 md:mt-0 text-md">
                 <a href="/assets/Resume Yasir Tahir.pdf">
+              <button className="text-white inline-flex items-center rounded-2xl bg-yellow-500 border-0 py-1 px-5 focus:outline-none hover:bg-gray-700 hover:text-yellow-500 md:mt-0 text-md">
                   Download C.V
                   <FaDownload style={{ marginLeft: "0.5rem" }} />
-                </a>
               </button>
+                </a>
             </div>
           </div>
         </div>
