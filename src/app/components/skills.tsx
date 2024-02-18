@@ -42,7 +42,7 @@ const Skills = () => {
                 alt="Logo"
                 className="rounded-full object-cover object-center "
                 height={130}
-                src="/Assets/nextjs.png"
+                src="/assets/nextjs.png"
                 style={{
                   aspectRatio: "1/1",
                   objectFit: "cover",
@@ -63,7 +63,7 @@ const Skills = () => {
                 alt="Logo"
                 className="rounded-full object-cover object-center "
                 height={130}
-                src="/Assets/react.png"
+                src="/assets/react.png"
                 style={{
                   aspectRatio: "1/1",
                   objectFit: "cover",
@@ -84,7 +84,7 @@ const Skills = () => {
                 alt="Logo"
                 className="rounded-full object-cover object-center "
                 height={130}
-                src="/Assets/node.png"
+                src="/assets/node.png"
                 style={{
                   aspectRatio: "1/1",
                   objectFit: "cover",
@@ -105,7 +105,7 @@ const Skills = () => {
                 alt="Logo"
                 className="rounded-full object-cover object-center "
                 height={130}
-                src="/Assets/ss.png"
+                src="/assets/ss.png"
                 style={{
                   aspectRatio: "1/1",
                   objectFit: "cover",
@@ -126,7 +126,7 @@ const Skills = () => {
                 alt="Logo"
                 className="rounded-full object-cover object-center "
                 height={130}
-                src="/Assets/html.png"
+                src="/assets/html.png"
                 style={{
                   aspectRatio: "1/1",
                   objectFit: "cover",
@@ -147,7 +147,7 @@ const Skills = () => {
                 alt="Logo"
                 className="rounded-full object-cover object-center "
                 height={130}
-                src="/Assets/python.png"
+                src="/assets/python.png"
                 style={{
                   aspectRatio: "1/1",
                   objectFit: "cover",
@@ -168,7 +168,7 @@ const Skills = () => {
                 alt="Logo"
                 className="rounded-full object-cover object-center "
                 height={130}
-                src="/Assets/wp.png"
+                src="/assets/wp.png"
                 style={{
                   aspectRatio: "1/1",
                   objectFit: "cover",
