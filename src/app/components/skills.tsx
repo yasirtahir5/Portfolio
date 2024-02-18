@@ -21,7 +21,7 @@ const Skills = () => {
                 alt="Logo"
                 className="rounded-full object-cover object-center "
                 height={130}
-                src="/Assets/ts.png"
+                src="/Assets/tss.png"
                 style={{
                   aspectRatio: "1/1",
                   objectFit: "cover",
